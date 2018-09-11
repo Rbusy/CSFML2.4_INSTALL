@@ -1,0 +1,1 @@
+# CSFML2.4_INSTALL
