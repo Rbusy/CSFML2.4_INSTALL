@@ -22,43 +22,38 @@
 
 
 
-## If you are on Linux, you need SFML dependencies.
-## If you are using fedora, you can update them by using the dnf script.
+### If you are on Linux, you need SFML dependencies.
+### If you are using fedora, you can update them by using the dnf script.
 
 
 
 -------------------------------------------------------------------------
-## $ sh sudo sh dependencies_with_dnf_install.sh
+##  sh sudo sh dependencies_with_dnf_install.sh
 -------------------------------------------------------------------------
 
 
 
 
-## Get help with SFML dependencies
+### Get help with SFML dependencies [Here](https://github.com/eXpl0it3r/SFML-dependencies)
 
 
 
 
-## [Here](https://github.com/eXpl0it3r/SFML-dependencies)
+### Then if you have all of the sfml dependencies just run this script
 
 
-
-
-## Then if you have all of the sfml dependencies just run this script
+------------------------------------------------------------------------
+### $ sh sudo install_csfml.sh
 ------------------------------------------------------------------------
 
 
-## $ sh sudo install_csfml.sh
+
+
+### For run it -lcsfml with C programs
 
 
 
 
-
-## For run it -lcsfml with C programs
-
-
-
-
-## I hope it help you a lot. :3
+### I hope it help you a lot. :3
 
 
