@@ -23,7 +23,7 @@
 
 
 ### If you are on Linux, you need SFML dependencies.
-### If you are using fedora, you can update them by using the dnf script.
+### If you are using fedora or dnf package installer, you can update them by using the dnf script.
 
 
 
@@ -43,13 +43,13 @@
 
 
 ------------------------------------------------------------------------
-### $ sh sudo install_csfml.sh
+## $ sh sudo install_csfml.sh
 ------------------------------------------------------------------------
 
 
 
 
-### For run it -lcsfml with C programs
+### For run it, -lcsfml with C programs
 
 
 
